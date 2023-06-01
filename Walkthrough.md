@@ -40,7 +40,7 @@ Streamlit is a Python library or framework dedicated to the creation of data web
 #### `ArcelorMittal_CO2_Emissions.csv`
 - Scrapped data from the [European Union Transaction Log](https://ec.europa.eu/clima/ets/napMgt.do)
 - All ArcelorMittal present and past installations, their years of activity, and their CO2 emissions.
-- This is a simplified version of our full dataset.
+- This is a simplified version of a dataset from an [investigation on ArcelorMittal published on Disclose](https://disclose.ngo/en/article/arcelormittal-public-money-thrown-at-one-of-the-worst-polluters).
 
 #### Questions from the newsroom:
 - How much CO2 has ArcelorMittal emitted over the years?
