@@ -8,7 +8,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/r3mlab/streamlit-demo.git
+git clone https://github.com/r3mlab/dh2023-streamlit-demo.git
 
 # Enter the folder
 cd streamlit-demo
